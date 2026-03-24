@@ -5,7 +5,7 @@ let flag = 0
 
  btn.addEventListener('click' , ()=>{
     if(flag == 0){
-         bulb.style.backgroundColor = "yellow"
+         bulb.style.backgroundColor = "Yellow"
          console.log('clicked');
          flag = 1
          
