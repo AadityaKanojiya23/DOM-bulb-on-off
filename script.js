@@ -8,8 +8,7 @@ let flag = 0
          bulb.style.backgroundColor = "Yellow"
          console.log('clicked');
          flag = 1
-         
-     }else {
+      }else {
          bulb.style.backgroundColor = "transparent"
          console.log('reclick');
          flag = 0    
