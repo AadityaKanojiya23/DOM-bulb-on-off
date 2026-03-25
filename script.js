@@ -13,6 +13,5 @@ let flag = 0
          bulb.style.backgroundColor = "transparent"
          console.log('reclick');
          flag = 0    
-    }
-    
+    }  
 })
