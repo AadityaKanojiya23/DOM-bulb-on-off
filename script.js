@@ -1,6 +1,6 @@
 let bulb =  document.querySelector('#bulb')
 let btn = document.querySelector('button')
-
+ 
 let flag = 0 
 
  btn.addEventListener('click' , ()=>{
